@@ -53,6 +53,17 @@ This repository contains the code and models used to **optimize the rendering of
 - NumPy
 - Matplotlib
 
+## Key objectives include:
+- Reducing error between real and simulated particle paths
+- Improving the accuracy of particle positioning in 3D space
+- Leveraging deep learning models to enhance volumetric display rendering
+
+## Technologies and tools used:
+- Python (TensorFlow, Keras)
+- Jupyter Notebooks for experimentation
+- Data preprocessing and transformation for time-series analysis
+- Git for version control
+
 You can install the dependencies using:
 
 ```bash
