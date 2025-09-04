@@ -1,5 +1,5 @@
 
-# Opimising Acoustic Volumteric Displays for Accurate rendering of leviatted particles: A data driven approach
+# Opimising Acoustic Volumteric Displays for Accurate rendering of levitated particles: A data driven approach
 
 This repository contains the code and models used to **optimize the rendering of levitated particles in acoustophoretic volumetric displays** using a data-driven approach. The focus is on reducing the deviation between the simulated and actual measured positions of levitated particles. Two neural network models are trained: one to predict the particle’s measured positions and theta, and another to optimize trap positions using a custom cost function. The project is structured into different notebooks representing various versions of the models.
 
